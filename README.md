@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kipDstar
+- 👋 Hi, I’m Jesse, Jesse Kipsang
 - 👀 I’m interested in full-stack software development
 - 🌱 I’m currently learning high-level front-end development
 - 💞️ I’m looking to collaborate on any educative topics and projects in the above
