@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesse, Jesse Kipsang
-- 👀 I’m interested in full-stack software development
-- 🌱 I’m currently learning high-level front-end development
+- 👀 I’m interested in all aspects around full-stack software development
+- 🌱 I’m currently learning, growing!
 - 💞️ I’m looking to collaborate on any educative topics and projects in the above
 - 📫 How to reach me: +254114212310
 - 😄 Pronouns: The original Copy
